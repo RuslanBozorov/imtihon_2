@@ -1,0 +1,20 @@
+{
+  "name": "2_oy_imtihon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "express-fileupload": "^1.5.2",
+    "nodemon": "^3.1.11",
+    "pg": "^8.16.3"
+  }
+}
